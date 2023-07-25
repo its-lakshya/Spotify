@@ -3,7 +3,7 @@
 
 # Spotify
 
-### [Project Link](https://its-lakshya.github.io/Spotify/Spotify.html)
+### [Project Link](https://its-lakshya.github.io/Spotify/)
 ### Abstract
 
 If you love listening to music online, you might be familiar with Spotify, one of the most popular music streaming platforms. But have you ever wondered how Spotify's web interface is designed and coded? This project is a clone of Spotify's music player using HTML and CSS. 
@@ -60,9 +60,11 @@ The web application will be responsive, meaning that it will adapt to different 
 
 
 
-
 ## Tech Stack
 
 **Client:** HTML5, CSS3
 
-
+## 🔗 Links
+[![github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/its-lakshya)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshyakumar-/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/its_lakshya)
